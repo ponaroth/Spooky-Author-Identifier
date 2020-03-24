@@ -3,6 +3,6 @@ Train machine learning models with short texts from the books of a few authors a
 
 Team members:  
 Ponaroth Eab  
-Margarita Nuridjanian 
-Daniel Preciado 
-Julie Kasparian 
+Margarita Nuridjanian   
+Daniel Preciado   
+Julie Kasparian   
